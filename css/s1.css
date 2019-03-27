@@ -1,0 +1,34 @@
+#sport{
+  border-radius: 12px;
+  color:green;
+  background-color:#57ff4f; 
+  height:30px;
+  width:80px;
+  font-size:30px;
+}
+#sporty{
+  border:12px solid #8e2f2f;
+  background-color:#00e9ff;
+}
+#div1{
+  color:green;
+  display: none;
+}
+#futeboler{
+  height:120px;
+  width:200px;
+  color:green;
+  background-color:#1aba32;
+}
+#futebol{
+  color:blue;
+  background-color:#cc9200;
+}
+#futebolers{
+  color:blue;
+  background-color:#cc9200;
+}
+#div2{
+  color:green;
+  display: none;
+}
